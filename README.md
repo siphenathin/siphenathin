@@ -15,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+   ![Vuetify.js](https://img.shields.io/badge/-Vuetify.js-333333?style=flat&logo=vuetify.js)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
