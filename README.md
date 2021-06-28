@@ -3,7 +3,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Problem problem solver.
-- 🎓 &nbsp;.
+- 🎓 &nbsp; BSc Computer Science.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -15,6 +15,5 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
