@@ -19,6 +19,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
   
   
 - 🛢 &nbsp;
