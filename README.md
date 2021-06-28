@@ -15,6 +15,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
    ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
