@@ -27,3 +27,5 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=007ACC)
+- 📊 &nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi&logoColor=007ACC)
