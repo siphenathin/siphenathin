@@ -3,7 +3,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 😎 &nbsp; Problem problem solver.
+- 😎 &nbsp; Problem solver.
 - 🎓 &nbsp; BSc Computer Science.
 
 
