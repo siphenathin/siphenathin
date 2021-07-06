@@ -3,7 +3,10 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 😎 &nbsp; Problem solver, Analyst, Software Developer.
+- 😎 &nbsp; Knowledgeable Junior Software Developer skilled analytics and agile 
+development. I have a sound experience in technologies and systems listed below. 
+Committed to ensuring that I am a good team player. Experienced in working with teams of 
+professionals to achieve the highest level of successful production. 
 - 🎓 &nbsp; BSc Computer Science.
 
 
