@@ -24,6 +24,7 @@ professionals to achieve the highest level of successful production.
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
+    ![jupyter](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
   
   
 - 🛢 &nbsp;
