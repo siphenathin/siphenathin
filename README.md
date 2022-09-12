@@ -3,7 +3,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 😎 &nbsp; Knowledgeable Junior Software Developer skilled in analytics and agile 
+- 😎 &nbsp; I like to identify myself as a Junior Software Developer, System Analyst, Business Analyst, Data Scientist who skilled in analytics and agile 
 development. I have a sound and basic experience in technologies and systems listed below under tech stack. 
 Committed to ensuring that I am a good team player. Experienced in working with teams of 
 professionals to achieve the highest level of successful production. 
