@@ -24,7 +24,7 @@ professionals to achieve the highest level of successful production.
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
-    ![jupyter](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
+   
   
   
 - 🛢 &nbsp;
@@ -34,5 +34,6 @@ professionals to achieve the highest level of successful production.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=007ACC)
+    ![jupyter](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
 - 📊 &nbsp;
 ![Power BI](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi&logoColor=007ACC)
